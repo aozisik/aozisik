@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello world 👋
 
-<!--
-**aozisik/aozisik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer and entrepreneur based in Tallinn, Estonia 🇪🇪
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Here's what I'm working on 👇
+
+<br>
+
+<a href="https://swiftmade.co"><img src="https://swiftmade.co/images/swiftmade-logo.png" width="150" /></a>
+
+Custom development shop where we build high quality software for our clients. We specialize in Laravel and Vue, but we also have awesome Node.js / Typescript developers. 
+
+
+<br>
+<a href="https://snackhub.ee"><img src="https://snackhub.ee/images/snackhub.svg" width="100" /></a>
+
+This started as a fun little experiment, and grew into a full product. Snack Hub lets you start a self-service mini-shop where you sell snacks and refreshments. Customers purchase right from their own mobile devices. So you don't need to invest in any hardware or keep staff busy with tiny sales.
+
+<br>
+<a href="https://appkeep.co"><img src="https://appkeep.co/images/logo.svg" width="150" /></a>
+Appkeep lets you monitor your sites and servers, warns you about security issues and even takes backups for you. Coming very soon!
