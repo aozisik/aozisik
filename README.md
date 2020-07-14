@@ -1,8 +1,6 @@
-### Hello world 👋
+### Hello 🌍
 
 I'm a software developer and entrepreneur based in Tallinn, Estonia 🇪🇪
-
-<br>
 
 
 ### Here's what I'm working on 👇
@@ -21,4 +19,5 @@ This started as a fun little experiment, and grew into a full product. Snack Hub
 
 <br>
 <a href="https://appkeep.co"><img src="https://appkeep.co/images/logo.svg" width="150" /></a>
+
 Appkeep lets you monitor your sites and servers, warns you about security issues and even takes backups for you. Coming very soon!
