@@ -7,7 +7,7 @@ I'm a software developer and entrepreneur based in Tallinn, Estonia 🇪🇪
 
 <br>
 
-<a href="https://swiftmade.co"><img src="https://swiftmade.co/images/swiftmade-logo.png" width="150" /></a>
+<a href="https://swiftmade.co"><img src="https://swiftmade.co/images/logo.svg" width="150" /></a>
 
 Custom development shop where we build high quality software for our clients. We specialize in Laravel and Vue, but we also have awesome Node.js / Typescript developers. 
 
