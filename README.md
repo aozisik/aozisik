@@ -13,7 +13,7 @@ Custom development shop where we build high quality software for our clients. We
 
 
 <br>
-<a href="https://snackhub.ee"><img src="https://snackhub.ee/images/snackhub.svg" width="100" /></a>
+<a href="https://snackhub.eu"><img src="https://snackhub.eu/images/snackhub.svg" width="100" /></a>
 
 This started as a fun little experiment, and grew into a full product. Snack Hub lets you start a self-service mini-shop where you sell snacks and refreshments. Customers purchase right from their own mobile devices. So you don't need to invest in any hardware or keep staff busy with tiny sales.
 
