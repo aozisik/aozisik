@@ -18,6 +18,6 @@ Custom development shop where we build high quality software for our clients. We
 This started as a fun little experiment, and grew into a full product. Snack Hub lets you start a self-service mini-shop where you sell snacks and refreshments. Customers purchase right from their own mobile devices. So you don't need to invest in any hardware or keep staff busy with tiny sales.
 
 <br>
-<a href="https://appkeep.co"><img src="https://appkeep.co/images/logo.svg" width="80" /></a>
+<a href="https://appkeep.co"><img src="https://appkeep.co/images/appkeep.svg" width="100" /></a>
 
 Appkeep lets you monitor your sites and servers, warns you about security issues and even takes backups for you. Coming very soon!
