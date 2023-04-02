@@ -2,6 +2,8 @@
 
 I'm a software developer and entrepreneur based in Tallinn, Estonia 🇪🇪
 
+You can visit my personal blog [here](https://ahmet.ee).
+
 
 ### 
 
