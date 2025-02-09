@@ -37,6 +37,7 @@ const parser = new Parser();
     // Write updated README
     fs.writeFileSync(readmePath, readme);
     console.log('✅ Successfully updated README with latest blog posts');
+    process.exit(0);
   } catch (error) {
     console.error('❌ Error fetching blog posts:', error);
     process.exit(1);

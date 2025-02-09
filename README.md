@@ -18,16 +18,8 @@ You can visit my personal blog [here](https://ahmet.ee?utm_source=github&utm_cam
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
-- [
-Feeling stuck? Maybe it's not your coding skills...
-      ](http://ahmet.test/feeling-stuck-maybe-it-s-not-your-coding-skills?utm_source=github&utm_campaign=profile) (Feb 5, 2025)
-- [
-Impressions from Laracon EU 2024
-      ](http://ahmet.test/impressions-from-laracon-eu-2024?utm_source=github&utm_campaign=profile) (Feb 12, 2024)
-- [
-How I set up my new MacBook Pro 14"
-      ](http://ahmet.test/how-i-set-up-my-new-macbook-pro-14?utm_source=github&utm_campaign=profile) (Oct 16, 2023)
-- [
-Running a startup from Estonia
-      ](http://ahmet.test/running-a-startup-from-estonia?utm_source=github&utm_campaign=profile) (Apr 1, 2023)
+- [Feeling stuck? Maybe it's not your coding skills...](https://ahmet.ee/feeling-stuck-maybe-it-s-not-your-coding-skills?utm_source=github&utm_campaign=profile) (Feb 5, 2025)
+- [Impressions from Laracon EU 2024](https://ahmet.ee/impressions-from-laracon-eu-2024?utm_source=github&utm_campaign=profile) (Feb 12, 2024)
+- [How I set up my new MacBook Pro 14"](https://ahmet.ee/how-i-set-up-my-new-macbook-pro-14?utm_source=github&utm_campaign=profile) (Oct 16, 2023)
+- [Running a startup from Estonia](https://ahmet.ee/running-a-startup-from-estonia?utm_source=github&utm_campaign=profile) (Apr 1, 2023)
 <!-- BLOG-POST-LIST:END -->
