@@ -18,6 +18,7 @@ You can visit my personal blog [here](https://ahmet.ee?utm_source=github&utm_cam
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [3 things I learned at the EstoniAI Meetup](https://ahmet.ee/3-things-i-learned-at-the-estoniai-meetup?utm_source=github&utm_campaign=profile) (Mar 21, 2025)
 - [Feeling stuck? Maybe it's not your coding skills...](https://ahmet.ee/feeling-stuck-maybe-it-s-not-your-coding-skills?utm_source=github&utm_campaign=profile) (Feb 5, 2025)
 - [Impressions from Laracon EU 2024](https://ahmet.ee/impressions-from-laracon-eu-2024?utm_source=github&utm_campaign=profile) (Feb 12, 2024)
 - [How I set up my new MacBook Pro 14"](https://ahmet.ee/how-i-set-up-my-new-macbook-pro-14?utm_source=github&utm_campaign=profile) (Oct 16, 2023)
