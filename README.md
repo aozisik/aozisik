@@ -1,26 +1,23 @@
-### Hello 🌍
+### Hi, I'm Ahmet 👋
 
-I'm a software developer and entrepreneur based in Tallinn, Estonia 🇪🇪
+I run <img src="https://swiftmade.co/images/favicon/favicon-96x96.png" height="16" align="absmiddle" alt="" /> [Swiftmade](https://swiftmade.co?utm_source=github&utm_campaign=profile), a software development company in Tallinn, Estonia 🇪🇪
 
-You can visit my personal blog [here](https://ahmet.ee?utm_source=github&utm_campaign=profile).
+I help companies architect, build and scale production software: payment processing, booking platforms, fleet management and backend infrastructure. These days most of my time goes into leading engineering teams and shipping AI-assisted products.
 
+On the side, I'm building <img src="https://gitloom.ai/gitloomLogo.svg" height="16" align="absmiddle" alt="" /> [GitLoom](https://gitloom.ai?utm_source=github&utm_campaign=profile), which turns your team's GitHub activity into weekly progress reports that clients and stakeholders can actually read.
 
-### 
+### Writing
 
+I write about software engineering, AI tooling and running a company from Estonia at [ahmet.ee](https://ahmet.ee?utm_source=github&utm_campaign=profile).
 
-|   | Here's what I'm working on 👇   |
-|:-:|---|
-| <a href="https://gitloom.ai?utm_source=github&utm_campaign=profile"><img src="https://gitloom.ai/assets/logo.png" width="50" /></a>  | Turn GitLoom automatically converts your GitHub activity into clear, business-friendly updates that make sense to your users or clients. Join the waitlist today! |
-| <a href="https://swiftmade.co?utm_source=github&utm_campaign=profile"><img src="https://swiftmade.co/images/logo.svg" width="200" /></a>  | Custom development shop where we build high quality software for our clients. We specialize in Laravel and Vue, but we also have awesome Node.js / Typescript developers.    |
-|  <a href="https://snackhub.eu?utm_source=github&utm_campaign=profile"><img src="https://snackhub.eu/images/snackhub.svg" width="50" /></a> | Snack Hub lets you start a self-service mini-shop where you sell snacks and refreshments. Customers purchase right from their own mobile devices. So you don't need to invest in any hardware or keep staff busy with tiny sales.  |
-
-<br>
-
-### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Is Software Solved?](https://ahmet.ee/is-software-solved?utm_source=github&utm_campaign=profile) (Jul 27, 2026)
+- [Don't let Claude Code read your secrets: why you need to set up sandboxing today](https://ahmet.ee/your-claude-code-setup-is-probably-not-as-safe-as-you-think?utm_source=github&utm_campaign=profile) (Mar 25, 2026)
+- [Reflections on Anything You Want by Derek Sivers](https://ahmet.ee/summary-of-anything-you-want-by-derek-sivers?utm_source=github&utm_campaign=profile) (Feb 9, 2026)
 - [3 things I learned at the EstoniAI Meetup](https://ahmet.ee/3-things-i-learned-at-the-estoniai-meetup?utm_source=github&utm_campaign=profile) (Mar 21, 2025)
 - [Feeling stuck? Maybe it's not your coding skills...](https://ahmet.ee/feeling-stuck-maybe-it-s-not-your-coding-skills?utm_source=github&utm_campaign=profile) (Feb 5, 2025)
-- [Impressions from Laracon EU 2024](https://ahmet.ee/impressions-from-laracon-eu-2024?utm_source=github&utm_campaign=profile) (Feb 12, 2024)
-- [How I set up my new MacBook Pro 14"](https://ahmet.ee/how-i-set-up-my-new-macbook-pro-14?utm_source=github&utm_campaign=profile) (Oct 16, 2023)
-- [Running a startup from Estonia](https://ahmet.ee/running-a-startup-from-estonia?utm_source=github&utm_campaign=profile) (Apr 1, 2023)
 <!-- BLOG-POST-LIST:END -->
+
+### Get in touch
+
+Building something and need a senior team behind it? Reach out via [swiftmade.co](https://swiftmade.co?utm_source=github&utm_campaign=profile) or find me at [ahmet.ee](https://ahmet.ee?utm_source=github&utm_campaign=profile).

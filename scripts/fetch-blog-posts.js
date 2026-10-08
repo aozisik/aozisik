@@ -24,7 +24,7 @@ const parser = new Parser();
           month: 'short',
           day: 'numeric'
         });
-        return `- [${post.title}](${post.link}?utm_source=github&utm_campaign=profile) (${date})`;
+        return `- [${post.title.replace(/\s+/g, " ").trim()}](${post.link}?utm_source=github&utm_campaign=profile) (${date})`;
       })
       .join('\n');
     
