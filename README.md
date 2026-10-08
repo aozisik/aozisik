@@ -20,4 +20,4 @@ I write about software engineering, AI tooling and running a company from Estoni
 
 ### Get in touch
 
-Building something and need a senior team behind it? Reach out via [swiftmade.co](https://swiftmade.co?utm_source=github&utm_campaign=profile) or find me at [ahmet.ee](https://ahmet.ee?utm_source=github&utm_campaign=profile).
+Building something and need a senior team behind it? Reach out via [swiftmade.co](https://swiftmade.co?utm_source=github&utm_campaign=profile) or find me at [ahmet.ee](https://ahmet.ee?utm_source=github&utm_campaign=profile) and on X as [@ahmet_php](https://x.com/ahmet_php).
